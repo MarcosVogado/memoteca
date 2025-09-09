@@ -20,8 +20,8 @@ export class CriarPensamentoComponent {
     })
   }
 
-  cancelarPensamento() {
-    window.alert('Pensamento cancelado!')
+  cancelar() {
+    this.router.navigate(['/listarPensamento'])
   }
 
   pensamento = {
