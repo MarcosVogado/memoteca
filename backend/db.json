@@ -1,12 +1,6 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Que bom que voce veio",
-      "autoria": "Nay",
-      "modelo": "modelo1"
-    },
-    {
       "id": 2,
       "conteudo": "Aplicativo para o desenvolvimento pessoal da criança e de aprendizado.",
       "autoria": "tonin",
@@ -29,6 +23,12 @@
       "autoria": "dev - Coringado",
       "modelo": "modelo3",
       "id": 6
+    },
+    {
+      "conteudo": "Pensamento de teste para ver se da pra editar o card",
+      "autoria": "Dev - alterado",
+      "modelo": "modelo2",
+      "id": 7
     }
   ]
 }
