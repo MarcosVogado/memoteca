@@ -31,10 +31,10 @@
       "id": 7
     },
     {
-      "conteudo": "       Marcos é cabuloso",
+      "id": 8,
+      "conteudo": "       Marcos é cabuloso mesmo",
       "autoria": "Dev - Marcos",
-      "modelo": "modelo3",
-      "id": 8
+      "modelo": "modelo3"
     },
     {
       "conteudo": "Pensamento de teste para ver se da pra editar o card",
