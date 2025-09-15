@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { Pensamento } from '../pensamento';
 import { PensamentoService } from '../pensamento.service';
 import { ActivatedRoute, Router } from '@angular/router';
+import { FormBuilder, FormGroup } from '@angular/forms';
 
 @Component({
   selector: 'app-editar-pensamento',
@@ -17,10 +18,13 @@ export class EditarPensamentoComponent {
     modelo: ''
   }
 
+  formulario!: FormGroup
+
   constructor (
     private service: PensamentoService,
     private router: Router,
-    private route: ActivatedRoute
+    private route: ActivatedRoute,
+    private formBuilder: FormBuilder
   ) { }
 
   ngOnInit(): void {
