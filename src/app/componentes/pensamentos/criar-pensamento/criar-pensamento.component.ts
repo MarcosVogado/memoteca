@@ -30,7 +30,7 @@ export class CriarPensamentoComponent {
         Validators.minLength(3)
       ])],
       modelo: ['modelo1'],
-      favorito: ['false']
+      favorito: [false]
     })
   }
 

@@ -12,7 +12,8 @@ export class PensamentoComponent {
     id: 0,
     conteudo: 'I love Angular',
     autoria: 'Marcos',
-    modelo: 'modelo3'
+    modelo: 'modelo3',
+    favorito: false
   }
 
   constructor(){ }
@@ -22,6 +23,14 @@ export class PensamentoComponent {
       return 'pensamento-g'
     } 
     return 'pensamento-p'
+  }
+
+  mudarIconeFavorito(): string {
+    if(this.pensamento.favorito == false) {
+      return 'inativo'
+    } else {
+      return 'ativo'
+    }
   }
 
 }
