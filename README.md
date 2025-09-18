@@ -11,7 +11,7 @@
   <img alt="Status" src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-8A2BE2">
 </p>
 ---
-<img src="assets/imagens/Screenshot_1.png" alt="Capa">
+<img src="src/assets/imagens/Screenshot_1.png" alt="Capa">
 ---
 
 ## 🗂️ Sumário
