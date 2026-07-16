@@ -97,7 +97,7 @@ tsconfig.spec.json
 
 ## 📜 Scripts úteis
 
-Comandos padrão do Angular CLI (documentados pelo próprio Angular):
+- > Comandos padrão do Angular CLI (documentados pelo próprio Angular):
 
 ```bash
 # servidor de desenvolvimento
