@@ -1,7 +1,7 @@
 # Memoteca
 
 > Um CRUD completo em **Angular** para registrar pensamentos.
-> *“Um CRUD completo em ANGULAR, mural para registrar seus pensamentos, Projeto Memoteca.”*
+> *“Um CRUD completo em ANGULAR, mural para registrar seus pensamentos, Projeto Memoteca <3.”*
 
 <p align="center">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-CLI%2015.2.11-DD0031?logo=angular&logoColor=white">
