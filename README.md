@@ -91,7 +91,7 @@ tsconfig.spec.json
 
 * **Angular (CLI 15.2.11)**
 * **TypeScript**, **HTML**, **CSS**
-* Indícios de uso de **json-server** (via tópicos do repositório)
+* Uso de **json-server**
 
 ---
 
